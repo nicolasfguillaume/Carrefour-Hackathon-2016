@@ -12,16 +12,16 @@ Jimmy The Coach est un coach bien-être. Il connaît les gens par leur historiqu
 ## Comment ça marche?
 ![solution](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/commentcamarche.JPG)
 
-## Technos
+## Technologies employées
 - Miscrosoft Azure
 - Node JS
 - Python
 
-## Démo
+## Démonstration
 Chercher "Back2Carouf" dans Facebook Messenger
 
 ## Screenshots
 
-![screen1](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/demo.png)
+![screen1](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/screenshot.png)
 
-![screen2](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/Screenshot.png)
+![screen2](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/demo.png)
