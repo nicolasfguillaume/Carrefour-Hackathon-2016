@@ -26,6 +26,8 @@ Exemple de discussion :
 
 ![screen1](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/screenshot.png)
 
-Exemple d'analyse du score nutrionnel des achats d'un client sur les 4 dernières semaines :
+Exemple d'analyse du score nutritionnel des achats d'un client sur les 4 dernières semaines :
 
 ![screen2](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/demo.png)
+
+Le dernier ticket de caisse est ensuite analysé (du point de vue nutritionnel), puis les articles avec un mauvais score nutritionnel sont identifiés, et enfin des articles similaires avec un meilleur score nutritionnel sont automatiquement recommandés.
