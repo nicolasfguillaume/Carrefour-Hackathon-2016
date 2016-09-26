@@ -1,5 +1,3 @@
-# Jimmy The Bot
-Hackathon Carrefour: Amelioriation de l'experience-client
 ![1](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/jimmy.JPG)
 
 ## Problématique
