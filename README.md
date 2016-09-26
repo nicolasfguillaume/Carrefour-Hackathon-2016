@@ -1,5 +1,8 @@
 ![1](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/jimmy.JPG)
 
+Hackathon Carrefour - 24-25 septembre 2016 - Paris
+http://pics.who.pho.to/img/thumbs/carrefour.it_favicon.jpg
+
 ## Problématique
 Combien de fois par an prend-on de bonnes résolutions ? Ne serait-on pas un peu mieux en faisant un peu plus de sport ou en mangeant un tout petit peu moins gras? N'aimerait-on pas avoir toujours quelqu'un à notre écoute, qui nous apporte de bons conseils et nous connaît ? Qui peut nous remettre dans le droit chemin quand nous nous égarons?
 Jimmy The Coach, c'est votre coach bien-être!
