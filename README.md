@@ -22,6 +22,10 @@ Chercher "Back2Carouf" dans Facebook Messenger
 
 ## Screenshots
 
+Exemple de discussion :
+
 ![screen1](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/screenshot.png)
+
+Exemple d'analyse du score nutrionnel des achats d'un client sur les 4 dernières semaines :
 
 ![screen2](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/demo.png)
