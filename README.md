@@ -2,8 +2,6 @@
 
 Hackathon Carrefour - 24-25 septembre 2016 - Paris
 
-![car](http://pics.who.pho.to/img/thumbs/carrefour.it_favicon.jpg)
-
 ## Problématique
 Combien de fois par an prend-on de bonnes résolutions ? Ne serait-on pas un peu mieux en faisant un peu plus de sport ou en mangeant un tout petit peu moins gras? N'aimerait-on pas avoir toujours quelqu'un à notre écoute, qui nous apporte de bons conseils et nous connaît ? Qui peut nous remettre dans le droit chemin quand nous nous égarons?
 Jimmy The Coach, c'est votre coach bien-être!
@@ -33,3 +31,9 @@ Exemple d'analyse du score nutritionnel des achats d'un client sur les 4 derniè
 ![screen2](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/demo.png)
 
 Le dernier ticket de caisse est ensuite analysé (du point de vue nutritionnel), puis les articles avec un mauvais score nutritionnel sont identifiés, et enfin des articles similaires avec un meilleur score nutritionnel sont automatiquement recommandés.
+
+## Photo de l'équipe
+
+X
+
+Ce projet a été selectionné pour une incubation d'une période de 2 mois
