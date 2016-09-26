@@ -1,6 +1,7 @@
 ![1](https://github.com/nicolasfguillaume/Carrefour-Hackathon-2016/blob/master/jimmy.JPG)
 
 Hackathon Carrefour - 24-25 septembre 2016 - Paris
+
 ![car](http://pics.who.pho.to/img/thumbs/carrefour.it_favicon.jpg)
 
 ## Problématique
